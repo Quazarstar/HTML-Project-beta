@@ -1,0 +1,86 @@
+body
+{
+background-color:teal;
+}
+
+#banner
+{
+text-align:center;
+}
+
+#selector
+{
+width:70%;
+height:50px;
+background-color:black;
+margin:0 auto;
+text-align:center;
+}
+
+#one
+{
+text-align:center;
+}
+
+#wrapper
+{
+margin:0 auto;
+width:980px;
+border: 1px solid #000;
+min-height:600px;
+}
+
+#two
+{
+width:200px;
+height:200px;
+background-color:red;
+float:left;
+margin: 50px;
+}
+
+#three
+{
+width:220px;
+height:220px;
+background-image:url('images/yez.jpg');
+float:left;
+margin: 50px;
+}
+
+#four
+{
+width:220px;
+height:220px;
+background-image:url('Images/yez 2.jpg');
+float:left;
+margin: 50px;
+
+}
+
+#five
+{
+width:240px;
+height:217px;
+background-image:url('Images/calender.png');
+float:left;
+margin: 50px
+}
+
+#six
+{
+width:200px;
+height:150px;
+background-color:orange;
+float:left;
+margin:50px;
+}
+
+#seven
+{
+width:200px;
+height:200px;
+background-image:url('Images/y.gif');
+float:left;
+margin:50px;
+}
