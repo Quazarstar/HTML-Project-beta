@@ -1,0 +1,23 @@
+body
+{
+background-color:teal;
+}
+
+#banner
+{
+text-align:center;
+}
+
+#selector
+{
+width:70%;
+height:50px;
+background-color:black;
+margin:0 auto;
+text-align:center;
+}
+
+#one
+{
+text-align:center;
+}
