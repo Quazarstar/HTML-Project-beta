@@ -10,7 +10,7 @@ text-align:center;
 
 #selector
 {
-width:70%;
+width:80%;
 height:50px;
 background-color:black;
 margin:0 auto;
@@ -41,8 +41,8 @@ margin: 50px;
 
 #three
 {
-width:220px;
-height:220px;
+width:200px;
+height:200px;
 background-image:url('images/yez.jpg');
 float:left;
 margin: 50px;
