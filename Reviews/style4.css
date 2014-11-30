@@ -10,7 +10,7 @@ text-align:center;
 
 #selector
 {
-width:70%;
+width:80%;
 height:50px;
 background-color:black;
 margin:0 auto;
@@ -42,14 +42,14 @@ background:orange;
 float:right;
 width:700px;
 height:600px;
-background:lime;
+background:#00003D;
 overflow:scroll;
 }
 .article
 {
 width:500px;
 height:250px;
-background:red;
+background:#2E5CE6;
 position:relative;
 top:40px;
 left:100px;
