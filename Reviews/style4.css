@@ -43,7 +43,7 @@ float:right;
 width:700px;
 height:600px;
 background:lime;
-overflow:scroll;
+overflow:auto;
 }
 .article
 {
