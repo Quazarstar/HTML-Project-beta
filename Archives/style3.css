@@ -41,7 +41,7 @@ background:orange;
 float:right;
 width:700px;
 height:600px;
-background:lime;
+background:#0000CC;
 overflow:auto;
 }
 #selector1
@@ -62,7 +62,7 @@ border: 1px solid #000;
 float:left;
 width:200px;
 height:150px;
-background:red;
+background:#2E5CE6;
 position:relative;
 top:40px;
 left:100px;
@@ -74,7 +74,7 @@ margin-right:40px;
 float:left;
 width:200px;
 height:150px;
-background:red;
+background:#2E5CE6;
 position:relative;
 top:40px;
 left:100px;
