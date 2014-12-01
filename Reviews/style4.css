@@ -24,31 +24,25 @@ text-align:center;
 #wrapper
 {
 
-width:900px;
+width:80%;
 height:600px;
 background:#0000CC;
-position:relative;
-left:140px
+margin: 0 auto;
 }
 #menu
 {
 float:left;
-width:200px;
+width:20%;
 height:600px;
 background:orange;
 }
 #main
 {
 float:right;
-width:700px;
+width:80%;
 height:600px;
-<<<<<<< HEAD
-background:lime;
+background:#0000CC;
 overflow:auto;
-=======
-background:#00003D;
-overflow:scroll;
->>>>>>> 8f38d8bb687a92ddc70414a6ee0ba2c58f4ab442
 }
 .article
 {
@@ -57,7 +51,7 @@ height:250px;
 background:#2E5CE6;
 position:relative;
 top:40px;
-left:100px;
+left:20%;
 margin-bottom:40px;
 
 }
