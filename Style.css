@@ -16,7 +16,15 @@ background-color:black;
 margin:0 auto;
 text-align:center;
 }
-
+.topbuttons
+{
+float:left;
+display: block;
+height: 20px;
+width: 25%;
+text-align:center;
+font-size:150%;
+}
 #one
 {
 text-align:center;
@@ -25,7 +33,7 @@ text-align:center;
 #wrapper
 {
 margin:0 auto;
-width:980px;
+width:80%;
 border: 1px solid #000;
 min-height:600px;
 }

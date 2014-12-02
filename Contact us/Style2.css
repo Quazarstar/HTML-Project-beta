@@ -16,7 +16,15 @@ background-color:black;
 margin:0 auto;
 text-align:center;
 }
-
+.topbuttons
+{
+float:left;
+display: block;
+height: 20px;
+width: 25%;
+text-align:center;
+font-size:150%;
+}
 #one
 {
 text-align:center;
