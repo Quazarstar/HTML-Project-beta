@@ -97,14 +97,13 @@ margin:50px;
 	#wrapper4
 	{
 	margin:0 auto;
-	width:800px;
-	border: 1px solid #000;
+	width:80%;
 	min-height:400px;
 	}
 
 	#Links
 	{
-	width:500px;
+	width:60%;
 	height:200px;
 	float:left;
 	background-color: #0000CC;
@@ -113,15 +112,15 @@ margin:50px;
 
 	#Information
 	{
-	Width:300px;
+	Width:40%;
 	height:200px;
 	background-color:grey;
-	float:left;
+	float:right;
 	}
 	
 	#form
 	{
-	width:100px;
+	width:40%;
 	height:200px;
 	background-color:orange;
 	float:left;
@@ -129,19 +128,20 @@ margin:50px;
 	
 	#InformationTwo
 	{
-	width:300px;
+	width:60%;
 	height:200px;
 	background-color:#2E5CE6;
-	float:left;
+	float:right;
 	}
-	
+	//*
 	#picture
 	{
-	width:400px;
+	width:20%;
 	height:200px;
 	background-image:url('Images/Nyan.jpg');
 	float:left;
 	}
+	*//
 		#wrapper2
 		{
 		width:80%;
