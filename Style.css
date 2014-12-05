@@ -1,8 +1,12 @@
+/*home page and template css*/
 body
 {
 background-color:teal;
 }
-
+p
+{
+padding-left:10px;
+}
 #banner
 {
 text-align:center;
@@ -94,6 +98,7 @@ background-image:url('Images/y.gif');
 float:left;
 margin:50px;
 }
+/*contact us page*/
 	#wrapper4
 	{
 	margin:0 auto;
@@ -142,6 +147,7 @@ margin:50px;
 	float:left;
 	}
 	*//
+	/*archives page*/
 		#wrapper2
 		{
 		width:80%;
@@ -202,7 +208,7 @@ margin:50px;
 		margin-bottom:40px;
 		margin-right:40px;
 		}			
-		
+			/*reviews page*/
 			#wrapper3
 			{
 
@@ -246,6 +252,7 @@ margin:50px;
 			font-family:helvetica;
 			font-size:100%;
 			}
+/*content css for archives*/
 .blog1
 {
 float:left;
