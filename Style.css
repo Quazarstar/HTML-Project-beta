@@ -17,7 +17,7 @@ text-align:center;
 font-family:helvetica;
 width:80%;
 height:50px;
-background-color:black;
+background-color:#6BA497;
 margin:0 auto;
 text-align:center;
 }
@@ -42,13 +42,14 @@ margin:0 auto;
 width:80%;
 border: 1px solid #000;
 min-height:600px;
+background-color:#1D3F6C;
 }
 
 #Intro
 {
 width:200px;
 height:150px;
-background-color:#0000CC;
+background-color:#E99C5D;
 float:left;
 margin: 50px;
 }
@@ -85,7 +86,7 @@ margin: 50px
 {
 width:200px;
 height:150px;
-background-color:#0000CC;
+background-color:#E99C5D;
 float:left;
 margin:50px;
 }
@@ -108,35 +109,39 @@ margin:50px;
 
 	#Links
 	{
-	width:60%;
+	width:40%;
 	height:200px;
 	float:left;
-	background-color: #0000CC;
+	background-color: #385884;
 	float:left;
+	font-family:helvetica;
 	}
 
 	#Information
 	{
-	Width:40%;
+	Width:60%;
 	height:200px;
-	background-color:grey;
+	background-color:#E89C5D;
 	float:right;
+	font-family:helvetica;
 	}
 	
 	#form
 	{
-	width:40%;
-	height:200px;
-	background-color:orange;
+	width:30%;
+	height:150px;
+	background-color:#A2700B;
 	float:left;
+	font-family:helvetica;
 	}
 	
 	#InformationTwo
 	{
-	width:60%;
-	height:200px;
-	background-color:#2E5CE6;
+	width:70%;
+	height:150px;
+	background-color:#E8BA5D;
 	float:right;
+	font-family:helvetica;
 	}
 	//*
 	#picture
@@ -160,14 +165,15 @@ margin:50px;
 		float:left;
 		width:20%;
 		height:600px;
-		background:orange;
+		background:#9899C2;
+		font-family:helvetica;
 		}
 		#main
 		{
 		float:right;
 		width:80%;
 		height:600px;
-		background:#0000CC;
+		background:#1D3F6C;
 		overflow:auto;
 		}
 		#selector1
@@ -181,32 +187,35 @@ margin:50px;
 		display: block;
 		height: 20px;
 		width: 25%;
-		background:cyan;
+		background:#388B8B;
 		text-align:center;
+		font-family:helvetica;
 		}
 		.video1
 		{
 		float:left;
 		width:200px;
 		height:150px;
-		background:#2E5CE6;
+		background:#E89C5D;
 		position:relative;
 		top:40px;
 		left:7%;
 		margin-bottom:40px;
 		margin-right:40px;
+		font-family:helvetica;
 		}
 		.video2
 		{
 		float:left;
 		width:200px;
 		height:150px;
-		background:#2E5CE6;
+		background:#E89C5D;
 		position:relative;
 		top:40px;
 		left:7%;
 		margin-bottom:40px;
 		margin-right:40px;
+		font-family:helvetica;
 		}			
 			/*reviews page*/
 			#wrapper3
@@ -222,25 +231,27 @@ margin:50px;
 			float:left;
 			width:20%;
 			height:600px;
-			background:orange;
+			background:#9899C2;
+			font-family:helvetica;
 			}
 			#main2
 			{
 			float:right;
 			width:80%;
 			height:600px;
-			background:#0000CC;
+			background:#1D3F6C;
 			overflow:auto;
 			}
 			.article
 			{
 			width:500px;
 			height:250px;
-			background:#2E5CE6;
 			position:relative;
 			top:40px;
 			left:20%;
 			margin-bottom:40px;
+			font-family:helvetica;
+			background-color:#E89C5D;
 			
 
 			}
@@ -258,42 +269,45 @@ margin:50px;
 float:left;
 width:200px;
 height:150px;
-background:#2E5CE6;
 position:relative;
 top:40px;
 left:7%;
 margin-bottom:40px;
 margin-right:40px;
+font-family:helvetica;
+background-color:#E89C5D;
 }
 .article1
 {
 float:left;
 width:200px;
 height:150px;
-background:#2E5CE6;
+background-color:#E89C5D;
 position:relative;
 top:40px;
 left:7%;
 margin-bottom:40px;
 margin-right:40px;
+font-family:helvetica;
 }
 .article2
 {
 float:left;
 width:200px;
 height:150px;
-background:#2E5CE6;
+background-color:#E89C5D;
 position:relative;
 top:40px;
 left:7%;
 margin-bottom:40px;
 margin-right:40px;
+font-family:helvetica;
 }
 .header
 {
 width:200px;
 height:50px;
-background:#2E5CE6;
+background-color:#E89C5D;
 font-family:helvetica;
 
 }
@@ -302,34 +316,37 @@ font-family:helvetica;
 float:left;
 width:200px;
 height:150px;
-background:#2E5CE6;
+background-color:#E89C5D;
 position:relative;
 top:40px;
 left:7%;
 margin-bottom:40px;
 margin-right:40px;
+font-family:helvetica;
 }
 .news1
 {
 float:left;
 width:200px;
 height:150px;
-background:#2E5CE6;
+background-color:#E89C5D;
 position:relative;
 top:40px;
 left:7%;
 margin-bottom:40px;
 margin-right:40px;
+font-family:helvetica;
 }
 .news2
 {
 float:left;
 width:200px;
 height:150px;
-background:#2E5CE6;
+background-color:#E89C5D;
 position:relative;
 top:40px;
 left:7%;
 margin-bottom:40px;
 margin-right:40px;
+font-family:helvetica;
 }
