@@ -164,7 +164,7 @@ margin:50px;
 		width:80%;
 		max-width:1000px;
 		min-width:650px;
-		height:600px;
+		height:1000px;
 		background:yellow;
 		margin: 0 auto;
 		}
@@ -173,7 +173,7 @@ margin:50px;
 		float:left;
 		width:20%;
 		min-width:100px;
-		height:600px;
+		height:1000px;
 		background:#9899C2;
 		font-family:helvetica;
 		}
@@ -181,9 +181,9 @@ margin:50px;
 		{
 		float:right;
 		width:80%;
-		height:600px;
+		height:1000px;
 		background:#1D3F6C;
-		overflow:auto;
+		
 		}
 		#selector1
 		{
@@ -234,7 +234,8 @@ margin:50px;
 			width:80%;
 			max-width:1000px;
 			min-width:650px;
-			height:600px;
+			max-height:1600px;
+			
 			background:#0000CC;
 			margin: 0 auto;
 			}
@@ -243,7 +244,7 @@ margin:50px;
 			float:left;
 			width:20%;
 			min-width:100px;
-			height:600px;
+			height:1600px;
 			background:#9899C2;
 			font-family:helvetica;
 			}
@@ -251,9 +252,9 @@ margin:50px;
 			{
 			float:right;
 			width:80%;
-			height:600px;
+			height:1600px;
 			background:#1D3F6C;
-			overflow:auto;
+			
 			}
 			.article
 			{
