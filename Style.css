@@ -22,6 +22,7 @@ height:50px;
 background-color:#6BA497;
 margin:0 auto;
 text-align:center;
+border: 1px solid #000;
 }
 .topbuttons
 {
@@ -45,10 +46,15 @@ width:80%;
 max-width:1000px;
 min-width:650px;
 border: 1px solid #000;
-min-height:600px;
+height:1100px;
 background-color:#1D3F6C;
 }
-
+@media only screen and (max-width: 1000px){
+#wrapper
+{
+height:1400px;	
+}	
+										}
 #Intro
 {
 width:200px;
@@ -103,6 +109,15 @@ background-image:url('Images/y.gif');
 float:left;
 margin:50px;
 }
+
+
+
+#footer
+{
+border-top: 1px solid #426A5E;
+margin-bottom:0cm;
+
+}
 /*contact us page*/
 	#wrapper4
 	{
@@ -110,7 +125,8 @@ margin:50px;
 	width:80%;
 	max-width:1000px;
 	min-width:650px;
-	min-height:400px;
+	height:400px;
+	
 	}
 
 	#Links
@@ -164,9 +180,9 @@ margin:50px;
 		width:80%;
 		max-width:1000px;
 		min-width:650px;
-		height:1000px;
-		background:yellow;
-		margin: 0 auto;
+		max-height:100px;	
+		background:#0000CC;
+		margin: 0 auto;		
 		}
 		#menu
 		{
@@ -230,12 +246,10 @@ margin:50px;
 			/*reviews page*/
 			#wrapper3
 			{
-
 			width:80%;
 			max-width:1000px;
 			min-width:650px;
-			max-height:1600px;
-			
+			max-height:1600px;			
 			background:#0000CC;
 			margin: 0 auto;
 			}
