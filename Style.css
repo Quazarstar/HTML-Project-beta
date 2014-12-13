@@ -228,7 +228,8 @@ margin-bottom:0cm;
 		left:7%;
 		margin-bottom:40px;
 		margin-right:40px;
-		font-family:helvetica;		
+		font-family:helvetica;	
+		background-image:url('Images/video.png');
 		}
 		.video2
 		{
@@ -241,7 +242,8 @@ margin-bottom:0cm;
 		left:7%;
 		margin-bottom:40px;
 		margin-right:40px;
-		font-family:helvetica;		
+		font-family:helvetica;	
+		background-image:url('Images/video.png');	
 		}			
 			/*reviews page */		
 
