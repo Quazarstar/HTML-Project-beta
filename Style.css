@@ -198,9 +198,12 @@ margin-bottom:0cm;
 		float:right;
 		width:80%;
 		height:1000px;
-		background:#1D3F6C;
-		
+		background:#1D3F6C;		
 		}
+		@media only screen and (max-width: 1000px){
+#menu{height:1300px;}	
+#main{height:1300px;}
+										}
 		#selector1
 		{
 		width:100%;
@@ -230,6 +233,7 @@ margin-bottom:0cm;
 		margin-right:40px;
 		font-family:helvetica;	
 		background-image:url('Images/video.png');
+		
 		}
 		.video2
 		{
@@ -244,6 +248,7 @@ margin-bottom:0cm;
 		margin-right:40px;
 		font-family:helvetica;	
 		background-image:url('Images/video.png');	
+	
 		}			
 			/*reviews page */		
 
@@ -307,6 +312,7 @@ margin-bottom:40px;
 margin-right:40px;
 font-family:helvetica;
 background-color:#E89C5D;
+	text-align:center;
 }
 .article1
 {
@@ -320,6 +326,7 @@ left:7%;
 margin-bottom:40px;
 margin-right:40px;
 font-family:helvetica;
+	text-align:center;
 }
 .article2
 {
@@ -333,6 +340,7 @@ left:7%;
 margin-bottom:40px;
 margin-right:40px;
 font-family:helvetica;
+	text-align:center;
 }
 .header
 {
@@ -354,6 +362,7 @@ left:7%;
 margin-bottom:40px;
 margin-right:40px;
 font-family:helvetica;
+	text-align:center;
 }
 .news1
 {
@@ -367,6 +376,7 @@ left:7%;
 margin-bottom:40px;
 margin-right:40px;
 font-family:helvetica;
+	text-align:center;
 }
 .news2
 {
@@ -380,4 +390,5 @@ left:7%;
 margin-bottom:40px;
 margin-right:40px;
 font-family:helvetica;
+	text-align:center;
 }

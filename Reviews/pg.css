@@ -55,19 +55,18 @@ text-align:center;
 			}
 			#topheading{
 			text-align:center;			
-			
+			font-family:helvetica;
 			margin: 0 auto;
 			}
 			#return{
+			font-family:helvetica;
 			float:left;
 			}
 			#mainbody
 			{
+			font-family:helvetica;
 			height:1450px;
 			background:#E89C5D;
 			padding:10px;
 			}
-			#commentbox
-			{
-			margin:0 auto;
-			}
+		
