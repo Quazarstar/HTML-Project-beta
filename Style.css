@@ -288,17 +288,11 @@ margin-bottom:0cm;
 			margin-bottom:40px;
 			font-family:helvetica;
 			background-color:#E89C5D;
+			text-align:center;
+			padding-top:20px;
+			}
 			
-
-			}
-			.header
-			{
-			width:500px;
-			height:50px;
-			background:sian;
-			font-family:helvetica;
-			font-size:100%;
-			}
+		
 /*content css for archives*/
 .blog1
 {
@@ -342,14 +336,7 @@ margin-right:40px;
 font-family:helvetica;
 	text-align:center;
 }
-.header
-{
-width:200px;
-height:50px;
-background-color:#E89C5D;
-font-family:helvetica;
 
-}
 .blog2
 {
 float:left;
