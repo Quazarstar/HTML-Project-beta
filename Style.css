@@ -165,6 +165,29 @@ margin-bottom:0cm;
 	float:right;
 	font-family:helvetica;
 	}
+		@media only screen and (max-width: 1000px){
+	#Links{width:100%;
+	height:200px;
+	float:left;
+	background-color: #385884;
+	font-family:helvetica;
+	}
+	#form{width:100%;
+	height:150px;
+	background-color:#A2700B;
+	font-family:helvetica;
+	}
+	#InformationTwo{width:100%;
+	height:150px;
+	background-color:#E8BA5D;
+	font-family:helvetica;
+	}
+	#Information{width:100%;
+	height:200px;
+	background-color:#E89C5D;
+	font-family:helvetica;
+	}
+	}
 	//*
 	#picture
 	{
